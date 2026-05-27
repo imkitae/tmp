@@ -1,0 +1,10 @@
+vsix/vscjava.vscode-java-pack-0.31.0 filter=lfs diff=lfs merge=lfs -text
+vsix/vscjava.vscode-maven-0.45.3 filter=lfs diff=lfs merge=lfs -text
+vsix/meta.pyrefly-1.0.0@darwin-arm64 filter=lfs diff=lfs merge=lfs -text
+vsix/ms-python.python-2026.4.0 filter=lfs diff=lfs merge=lfs -text
+vsix/ms-python.vscode-python-envs-1.30.0 filter=lfs diff=lfs merge=lfs -text
+vsix/redhat.java-1.55.2026052609@darwin-arm64 filter=lfs diff=lfs merge=lfs -text
+vsix/hashicorp.terraform-2.39.2@darwin-arm64 filter=lfs diff=lfs merge=lfs -text
+vsix/ms-python.debugpy-2026.6.0@darwin-arm64 filter=lfs diff=lfs merge=lfs -text
+vsix/vscjava.vscode-java-debug-0.59.0 filter=lfs diff=lfs merge=lfs -text
+app/Hammerspoon-1.1.1 filter=lfs diff=lfs merge=lfs -text
